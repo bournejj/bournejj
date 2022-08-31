@@ -6,7 +6,6 @@
 
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a react project called preffered-dishes
 - 🌱 I’m currently learning vue
